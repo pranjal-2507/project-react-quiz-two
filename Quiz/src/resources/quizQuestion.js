@@ -1,4 +1,5 @@
-[
+
+export default [
   {
       "question": "What temperature does water boil at?",
       "optionA": "50 degrees Celcius",
